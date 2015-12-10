@@ -52,3 +52,13 @@ body {
   border-radius: 5px;
   background-color: #f0f0f0;
 }
+
+.caption {
+  color: #696969;
+  margin-top: -15px;
+
+}
+
+.info {
+  margin-bottom: 5px;
+}

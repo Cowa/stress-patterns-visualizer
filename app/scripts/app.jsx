@@ -18,8 +18,9 @@ let StressPatternApp = React.createClass({
     return (
       <div>
         <h3>Stress Patterns Visualizer©</h3>
+        <p className={'caption'}>Discover the true secrets of your stress patterns</p>
         <StressList data={this.state.stressPattern} />
-        <p>Put your patterns here and enjoy:</p>
+        <p className={'info'}>Put your patterns here and enjoy:</p>
         <textarea className={'inputStressPattern'} onChange={this.handleChange} defaultValue={this.state.stressPattern}></textarea>
       </div>
     );
