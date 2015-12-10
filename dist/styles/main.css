@@ -1,0 +1,54 @@
+body {
+  background: #dedede;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  padding-bottom: 19px;
+}
+
+.stress {
+  border: 2px solid #828282;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.stress.level-s0 {
+  background-color: #cde4ff;
+}
+
+.stress.level-s1 {
+  background-color: #98acff;
+}
+
+.stress.level-s2 {
+  background-color: #ff6b6f;
+}
+
+.stress:hover
+{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+
+.groupedStress {
+  display: block;
+}
+
+.inputStressPattern {
+  width: 350px;
+  height: 100px;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+}
