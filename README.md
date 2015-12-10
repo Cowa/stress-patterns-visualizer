@@ -1,2 +1,2 @@
 # stress-patterns-visualizer
-"The goal is to do something with the data sets" - This my something
+"The goal is to do something with the data sets" - This is my something
