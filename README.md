@@ -35,7 +35,7 @@ Now visualize it:
   <img width="362" alt="cap" src="https://cloud.githubusercontent.com/assets/1422403/11721538/939f11e4-9f64-11e5-8aa2-7d3051d4fbc3.png">
 </p>
 
-Easier right? The primary stress is on the second to last syllable.
+Easier right? The primary stress is on the second to last syllable. This is the feature.
 
 ## Try it
 
