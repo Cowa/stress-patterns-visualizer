@@ -36,3 +36,29 @@ Now visualize it:
 </p>
 
 Easier right? The primary stress is on the second to last syllable.
+
+## Try it
+
+You can use the application [here](http://cowa.github.io/stress-patterns-visualizer/).
+
+If you need some data to play with, go [here](http://cdlh7.free.fr/ATAL_2015/resume.html). At the end of the page you will find what you need.
+Then you just have to copy/paste stress patterns into the application. And enjoy!
+
+## Use it
+
+Use it without moderation.  
+And feel free to let me know if this software helped you in any way :)
+
+## Screenshot
+
+<p align="center">
+  <img width="369" alt="cap" src="https://cloud.githubusercontent.com/assets/1422403/11722105/64ca69ba-9f67-11e5-9fd9-aa7ac3c79a3c.png">
+</p>
+
+## Made by
+
+Brice Thomas, 2015, with love.
+
+## Powered by
+
+React.js and lodash.
